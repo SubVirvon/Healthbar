@@ -1,0 +1,8 @@
+C:\Users\Danii\source\repos\Healthbar\Healthbar\bin\Debug\Healthbar.exe.config
+C:\Users\Danii\source\repos\Healthbar\Healthbar\bin\Debug\Healthbar.exe
+C:\Users\Danii\source\repos\Healthbar\Healthbar\bin\Debug\Healthbar.pdb
+C:\Users\Danii\source\repos\Healthbar\Healthbar\obj\Debug\Healthbar.csproj.AssemblyReference.cache
+C:\Users\Danii\source\repos\Healthbar\Healthbar\obj\Debug\Healthbar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danii\source\repos\Healthbar\Healthbar\obj\Debug\Healthbar.csproj.CoreCompileInputs.cache
+C:\Users\Danii\source\repos\Healthbar\Healthbar\obj\Debug\Healthbar.exe
+C:\Users\Danii\source\repos\Healthbar\Healthbar\obj\Debug\Healthbar.pdb
